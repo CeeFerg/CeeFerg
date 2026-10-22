@@ -14,5 +14,3 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=25&duration=2000&pause=500&color=00D356&center=true&vCenter=true&multiline=true&width=435&height=84&lines=Welcome+to+my+GitHub!;Thanks+for+visiting." alt="Welcome to my GitHub! Thanks for visiting." /></a>
 </p>
-
-# CeeFerg
