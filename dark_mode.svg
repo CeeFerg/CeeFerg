@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1044" height="527" viewBox="0 0 1044 527" font-family="Consolas,'DejaVu Sans Mono','Liberation Mono',Menlo,monospace" xml:space="preserve">
+<style>
+.k{fill:#ffa657} .v{fill:#a5d6ff} .d{fill:#616e7f} .a{fill:#39ff14}
+text,tspan{white-space:pre}
+</style>
+<rect width="1044" height="527" fill="#161b22" rx="15"/>
+<text font-size="10" fill="#39ff14" opacity="0.9">
+<tspan x="20" y="34.2">                                 %%%</tspan>
+<tspan x="20" y="46.8">                              #@::::+%%</tspan>
+<tspan x="20" y="59.4">                           ##::::::::::@%</tspan>
+<tspan x="20" y="72.0">                         %#@:::::::::::-@@#</tspan>
+<tspan x="20" y="84.6">                        #+:::-@::::::-:::::%</tspan>
+<tspan x="20" y="97.2">                      ##@:@@@@=:::=:::*@@@@:%%</tspan>
+<tspan x="20" y="109.8">                     %##%:@@@@@%*@*@:@@@@@@:@##</tspan>
+<tspan x="20" y="122.4">                     ##@::::::::::::::::::::+%##</tspan>
+<tspan x="20" y="135.0">                    %##:::::=::::++::::==::::@##</tspan>
+<tspan x="20" y="147.6">                    ##@:::*%::::=::#:=::-@:::*###</tspan>
+<tspan x="20" y="160.2">                   ###@=:@@@*-%@@@@@@+:@@@@::@%##</tspan>
+<tspan x="20" y="172.8">                   ###@@@@:@@@@@*--%@@@@@-:@@@@###</tspan>
+<tspan x="20" y="185.4">                  %##@@@:::@@::-*+++#::@@::*@@@###</tspan>
+<tspan x="20" y="198.0">                  ###@@@:::%=::::::::::@-::#@@@####</tspan>
+<tspan x="20" y="210.6">                 ####@@@:::::::::::::::::::@@@@####</tspan>
+<tspan x="20" y="223.2">                 ###%@@@-:::::*@@@@@@#:::::@@@@####</tspan>
+<tspan x="20" y="235.8">                 ###%@@@@%:-@@@@@@@@@@@@#+@@@@@####</tspan>
+<tspan x="20" y="248.4">                ####%@@@@@@@@@@@@@@@@@@@@@@@@@@####</tspan>
+<tspan x="20" y="261.0">                #####@@@@@@@@@@@@@@@@@@@@@@@@@#####</tspan>
+<tspan x="20" y="273.6">               #######@@@@@@@@@@@@@@@@@@@@@@@#######</tspan>
+<tspan x="20" y="286.2">    ##        ##########@@@@@@@@@@@@@@@@@@@%#########         %#</tspan>
+<tspan x="20" y="298.8">  #######    ############@@@@@@@@@@@@@@@@%#############    #######</tspan>
+<tspan x="20" y="311.4">  ########        %########@@@@@@@@@@@@##########         ########</tspan>
+<tspan x="20" y="324.0"> ###########          ########@@@@@@##########          ############</tspan>
+<tspan x="20" y="336.6">################          #%############%           ################</tspan>
+<tspan x="20" y="349.2"> #####################                        #####################</tspan>
+<tspan x="20" y="361.8">          #%###############              #################</tspan>
+<tspan x="20" y="374.4">                ################    #################</tspan>
+<tspan x="20" y="387.0">                     ###########################</tspan>
+<tspan x="20" y="399.6">                         ##################</tspan>
+<tspan x="20" y="412.2">                    ############################</tspan>
+<tspan x="20" y="424.8">               #################    #################</tspan>
+<tspan x="20" y="437.4">  #########################              %########################</tspan>
+<tspan x="20" y="450.0"> %###################                          ###################%</tspan>
+<tspan x="20" y="462.6">  ##############                                    ##############</tspan>
+<tspan x="20" y="475.2">    ##########                                         #########</tspan>
+<tspan x="20" y="487.8">    ########                                            ########</tspan>
+<tspan x="20" y="500.4">     %##                                                    ###</tspan>
+</text>
+<text font-size="16" fill="#c9d1d9">
+<tspan x="459" y="36" class="a">curtis@homelab</tspan><tspan class="d"> —————————————————————————————————————————</tspan>
+<tspan x="459" y="56" class="d">. </tspan><tspan class="k">OS</tspan>:<tspan class="d"> ............................. </tspan><tspan class="v">Fedora 44 KDE Plasma</tspan>
+<tspan x="459" y="76" class="d">. </tspan><tspan class="k">Host</tspan>:<tspan class="d"> ............................. </tspan><tspan class="v">Proxmox VE homelab</tspan>
+<tspan x="459" y="96" class="d">. </tspan><tspan class="k">Kernel</tspan>:<tspan class="d"> ................ </tspan><tspan class="v">Cybersecurity graduate (NSCC)</tspan>
+<tspan x="459" y="116" class="d">. </tspan><tspan class="k">Shell</tspan>:<tspan class="d"> .......................................... </tspan><tspan class="v">bash</tspan>
+<tspan x="459" y="136" class="d">. </tspan><tspan class="k">Learning</tspan>:<tspan class="d"> ................ </tspan><tspan class="v">C, Python, Active Directory</tspan>
+<tspan x="459" y="156" class="d">.</tspan>
+<tspan x="459" y="176" class="d">. </tspan><tspan class="k">Focus</tspan><tspan>.</tspan><tspan class="k">Defence</tspan>:<tspan class="d"> ........... </tspan><tspan class="v">Monitoring, logs, hardening</tspan>
+<tspan x="459" y="196" class="d">. </tspan><tspan class="k">Focus</tspan><tspan>.</tspan><tspan class="k">Offence</tspan>:<tspan class="d"> ...................... </tspan><tspan class="v">Pentesting, CTFs</tspan>
+<tspan x="459" y="216" class="d">. </tspan><tspan class="k">Lab</tspan><tspan>.</tspan><tspan class="k">Stack</tspan>:<tspan class="d"> ............. </tspan><tspan class="v">Wazuh, Cowrie, AD domain, LFS</tspan>
+<tspan x="459" y="236" class="d">.</tspan>
+<tspan x="459" y="256">- Honeypot </tspan><tspan class="d">—————————————————————————————————————————————</tspan>
+<tspan x="459" y="276" class="d">. </tspan><tspan class="k">Sensor</tspan>:<tspan class="d"> ............................. </tspan><tspan class="v">Cowrie SSH, live</tspan>
+<tspan x="459" y="296" class="d">. </tspan><tspan class="k">Uptime</tspan>:<tspan class="d"> ...................................... </tspan><tspan class="v">46 days</tspan>
+<tspan x="459" y="316" class="d">. </tspan><tspan class="k">Campaigns</tspan><tspan>.</tspan><tspan class="k">Tracked</tspan>:<tspan class="d"> ........ </tspan><tspan class="v">Mirai, RedTail, Outlaw, +1</tspan>
+<tspan x="459" y="336" class="d">.</tspan>
+<tspan x="459" y="356">- Contact </tspan><tspan class="d">——————————————————————————————————————————————</tspan>
+<tspan x="459" y="376" class="d">. </tspan><tspan class="k">Portfolio</tspan>:<tspan class="d"> ......................... </tspan><tspan class="v">curtisferguson.ca</tspan>
+<tspan x="459" y="396" class="d">. </tspan><tspan class="k">LinkedIn</tspan>:<tspan class="d"> ............................ </tspan><tspan class="v">curtiswferguson</tspan>
+<tspan x="459" y="416" class="d">. </tspan><tspan class="k">Email</tspan>:<tspan class="d"> ....................... </tspan><tspan class="v">curtiscyber@outlook.com</tspan>
+<tspan x="459" y="436" class="d">. </tspan><tspan class="k">GitHub</tspan>:<tspan class="d"> ...................................... </tspan><tspan class="v">CeeFerg</tspan>
+</text></svg>
